@@ -13,7 +13,7 @@ export const const_projects = [
     private: true,
     image: {
       src: "/images/projects/weather-app.png",
-      style: { width: "320px", height: "160px", margin: "0 4px" },
+      style: { width: "100%", height: "100%", margin: "0 4px" },
     },
   },
   {
@@ -27,7 +27,7 @@ export const const_projects = [
     private: true,
     image: {
       src: "/images/projects/classic-space-invaders.png",
-      style: { width: "320px", height: "160px", margin: "0 4px" },
+      style: { width: "100%", height: "100%", margin: "0 4px" },
     },
   },
   {
