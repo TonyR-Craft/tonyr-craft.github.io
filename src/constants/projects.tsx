@@ -21,7 +21,7 @@ export const const_projects = [
     url: "https://github.com/TonyR-Craft/ClassicSpaceInvaders",
     desription: (
       <Typography>
-        Classic Space Invaders Clone written in JAvascript and native HTML
+        Classic Space Invaders Clone written in Javascript and native HTML
       </Typography>
     ),
     private: true,

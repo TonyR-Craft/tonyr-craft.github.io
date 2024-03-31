@@ -60,7 +60,7 @@ const Home = () => {
             software applications and infrastructure technologies.<br/>
             I create, maintain and support applications that help customers solve their business challenges
             and bring their technical strategies to life. In my spare time I
-            enjoy competative coding; challenging myself, and others, to tackle
+            enjoy competitive coding; challenging myself, and others, to tackle
             new skills, technologies and opportunities.
           </Typography>
         </Stack>
