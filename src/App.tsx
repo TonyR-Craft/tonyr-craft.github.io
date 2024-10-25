@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 import "./App.css";
 import About from "./pages/about/About";
 import Projects from "./pages/projects/Projects";
@@ -21,10 +21,10 @@ const Pages = () => {
 
 const App = () => {
   return (
-    <>
-    <TheLights />
-    <Pages />
-    </>
+    <BrowserRouter>
+      <TheLights />
+      <Pages />
+    </BrowserRouter>
   );
 };
 
